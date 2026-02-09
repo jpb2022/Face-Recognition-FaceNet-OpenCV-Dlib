@@ -346,8 +346,8 @@ This project is inspired by:
 
 **Er. Jitendra Kumar**
 
-**Data Scientist
-M.Tech – IIT Kanpur
+**Data Scientist,
+M.Tech – IIT Kanpur,
 B.Tech – NIT Surat**
 
 ---
