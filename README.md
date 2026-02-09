@@ -345,6 +345,7 @@ This project is inspired by:
 ### 👨‍💻 Author
 
 **Er. Jitendra Kumar**
+
 **Data Scientist
 M.Tech – IIT Kanpur
 B.Tech – NIT Surat**
