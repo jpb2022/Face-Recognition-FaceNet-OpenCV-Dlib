@@ -10,7 +10,7 @@ M.Tech – IIT Kanpur | B.Tech – NIT Surat
 ## 📌 Repository Link
 
 🔗 **Project Repository:**
-[https://github.com/jpb2022/Face-Recognition-FaceNet-OpenCV-Dlib/tree](https://github.com/jpb2022/Face-Recognition-FaceNet-OpenCV-Dlib/tree)
+[https://github.com/jpb2022/Face-Recognition-FaceNet-OpenCV-Dlib/blob/main/face-recognition.ipynb](https://github.com/jpb2022/Face-Recognition-FaceNet-OpenCV-Dlib/blob/main/face-recognition.ipynb)
 
 ---
 
